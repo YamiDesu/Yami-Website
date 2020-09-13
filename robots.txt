@@ -1,0 +1,5 @@
+# robots.txt zu http://justin-dretvic.epizy.com/
+
+User-agent: *
+Disallow: /_images/
+Disallow: /_files/
